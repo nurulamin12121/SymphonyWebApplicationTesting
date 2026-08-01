@@ -27,3 +27,33 @@ E:\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\obj\Debug\net8.0\
 E:\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\obj\Debug\net8.0\SymphonyWebApplicationTesting.pdb
 E:\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\obj\Debug\net8.0\SymphonyWebApplicationTesting.genruntimeconfig.cache
 E:\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\obj\Debug\net8.0\ref\SymphonyWebApplicationTesting.dll
+E:\Nurul Amin\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\bin\Debug\net8.0\appsettings.Development.json
+E:\Nurul Amin\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\bin\Debug\net8.0\appsettings.json
+E:\Nurul Amin\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\bin\Debug\net8.0\SymphonyWebApplicationTesting.staticwebassets.runtime.json
+E:\Nurul Amin\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\bin\Debug\net8.0\SymphonyWebApplicationTesting.staticwebassets.endpoints.json
+E:\Nurul Amin\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\bin\Debug\net8.0\SymphonyWebApplicationTesting.exe
+E:\Nurul Amin\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\bin\Debug\net8.0\SymphonyWebApplicationTesting.deps.json
+E:\Nurul Amin\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\bin\Debug\net8.0\SymphonyWebApplicationTesting.runtimeconfig.json
+E:\Nurul Amin\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\bin\Debug\net8.0\SymphonyWebApplicationTesting.dll
+E:\Nurul Amin\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\bin\Debug\net8.0\SymphonyWebApplicationTesting.pdb
+E:\Nurul Amin\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\obj\Debug\net8.0\SymphonyWebApplicationTesting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nurul Amin\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\obj\Debug\net8.0\SymphonyWebApplicationTesting.AssemblyInfoInputs.cache
+E:\Nurul Amin\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\obj\Debug\net8.0\SymphonyWebApplicationTesting.AssemblyInfo.cs
+E:\Nurul Amin\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\obj\Debug\net8.0\SymphonyWebApplicationTesting.csproj.CoreCompileInputs.cache
+E:\Nurul Amin\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\obj\Debug\net8.0\SymphonyWebApplicationTesting.MvcApplicationPartsAssemblyInfo.cache
+E:\Nurul Amin\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\obj\Debug\net8.0\SymphonyWebApplicationTesting.RazorAssemblyInfo.cache
+E:\Nurul Amin\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\obj\Debug\net8.0\SymphonyWebApplicationTesting.RazorAssemblyInfo.cs
+E:\Nurul Amin\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\obj\Debug\net8.0\SymphonyWebApplicationTesting.sourcelink.json
+E:\Nurul Amin\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Nurul Amin\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\obj\Debug\net8.0\scopedcss\bundle\SymphonyWebApplicationTesting.styles.css
+E:\Nurul Amin\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\obj\Debug\net8.0\scopedcss\projectbundle\SymphonyWebApplicationTesting.bundle.scp.css
+E:\Nurul Amin\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\obj\Debug\net8.0\staticwebassets.build.json
+E:\Nurul Amin\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\Nurul Amin\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\obj\Debug\net8.0\staticwebassets.development.json
+E:\Nurul Amin\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Nurul Amin\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Nurul Amin\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\obj\Debug\net8.0\SymphonyWebApplicationTesting.dll
+E:\Nurul Amin\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\obj\Debug\net8.0\refint\SymphonyWebApplicationTesting.dll
+E:\Nurul Amin\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\obj\Debug\net8.0\SymphonyWebApplicationTesting.pdb
+E:\Nurul Amin\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\obj\Debug\net8.0\SymphonyWebApplicationTesting.genruntimeconfig.cache
+E:\Nurul Amin\SymphonyWebApplicationTesting\SymphonyWebApplicationTesting\obj\Debug\net8.0\ref\SymphonyWebApplicationTesting.dll
